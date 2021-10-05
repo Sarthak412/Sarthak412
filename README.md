@@ -52,4 +52,4 @@ a Cyber Security Enthusiast.
 
 <hr>
 <h4 align= left> sᴀʀᴛʜᴀᴋ ᴋᴀᴍʙʟᴇ </h4>
-<h3 align= center> Thank you for visiting my profile star my repositories if you like them. Thanks again 😉 </h3> 
+<h3 align= center> Thank you for visiting my profile star my repositories if you like them. Thanks you 😉 </h3> 
