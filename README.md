@@ -8,12 +8,11 @@ a Cyber Security Enthusiast.
 </pre> 
 
 <h2 align = left> 🔥 More about me </h2> 
-<ul>
-  <li type = square> Currently learning and playing with JavaScript. </li>
-  <li type = square> Used C++ for Problem Solving. </li>
-  <li type = square> Used Python for some fun automation projects. </li>
-  <li type = square> I am currently working on some front-end projects and my Digital portfolio. </li>  
-</ul>
+
+>  Currently learning and playing with JavaScript. <br>
+>  Used C++ for Problem Solving. <br>
+>  Used Python for some fun automation projects. <br> 
+>  I am currently working on some front-end projects and my Digital portfolio.   
 
 <h2 align = left> 🛠 Tech Stack and Tools </h2>
 
