@@ -9,9 +9,9 @@ a Cyber Security Enthusiast.
 
 <h2 align = left> 🔥 More about me </h2> 
 
->  Currently learning and playing with JavaScript. <br>
->  Used C++ for Problem Solving. <br>
->  Used Python for some fun automation projects. <br> 
+>  Currently learning and experimenting with JavaScript. <br>
+>  C++ for Problem Solving. <br>
+>  Python for some fun automation projects. <br> 
 >  I am currently working on some front-end projects and my Digital portfolio.   
 
 <h2 align = left> 🛠 Tech Stack and Tools </h2>
