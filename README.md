@@ -11,8 +11,7 @@ a Cyber Security Enthusiast.
 
 >  Currently learning and experimenting with JavaScript. <br>
 >  C++ for Problem Solving. <br>
->  Python for some fun automation projects. <br> 
->  I am currently working on some front-end projects and my Digital portfolio.   
+>  Python for some fun automation projects. <br>  
 
 <h2 align = left> 🛠 Tech Stack and Tools </h2>
 
