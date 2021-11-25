@@ -2,8 +2,7 @@
 
 <pre align=left>
 <h2> 
-I'm an Information Technology Student. Self learning front-end developer and 
-a Cyber Security Enthusiast.
+Self learning front-end development through research and development.
 </h2> 
 </pre> 
 
