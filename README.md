@@ -2,7 +2,7 @@
 
 <pre align=left>
 <h2> 
-Self learning front-end development through research and development.
+Self learning front-end through research and development.
 </h2> 
 </pre> 
 
