@@ -5,7 +5,7 @@
 
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&weight=800&size=25&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&height=100&lines=Self+learning+front-end+through+research+and+development.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&weight=800&size=25&pause=1000&color=37FF71FF&background=FFFFFF00&width=800&height=100&lines=Self+learning+front-end+through+research+and+development.)](https://git.io/typing-svg) 
 
 <h2 align = left> 🔥 More about me </h2> 
 
