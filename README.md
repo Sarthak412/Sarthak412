@@ -1,10 +1,11 @@
-<h1 align= left> 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙎𝙖𝙧𝙩𝙝𝙖𝙠 𝙆𝙖𝙢𝙗𝙡𝙚 ⚡ </h1>
+<br/>
+<br/>
 
-<pre align=left>
-<h2> 
-Self learning front-end through research and development.
-</h2> 
-</pre> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&pause=1000&color=FFFFFF&background=FFFFFF00&width=600&height=100&lines=Sarthak+Kamble;Front-end+Developer)](https://git.io/typing-svg)
+
+<hr/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&weight=800&size=25&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&height=100&lines=Self+learning+front-end+through+research+and+development.)](https://git.io/typing-svg) 
 
 <h2 align = left> 🔥 More about me </h2> 
 
