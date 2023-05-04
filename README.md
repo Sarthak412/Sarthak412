@@ -4,7 +4,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&weight=800&size=25&pause=1000&color=37FF71FF&background=FFFFFF00&width=800&height=100&lines=Self+learning+fullstack+through+research+and+development.)](https://git.io/typing-svg) 
  -->
-# ⭐ More about me ⭐
+# ⭐ More about me 
 
 - Self-learning Full-stack Developer through research and Developement.
 - Currently experimenting with React and Tailwind CSS for Front-end.
