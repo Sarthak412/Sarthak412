@@ -1,10 +1,8 @@
 <br/>
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&pause=1000&color=6a5acd&background=FFFFFF00&width=600&height=100&lines=Sarthak+Kamble;Fullstack+Developer)](https://git.io/typing-svg
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&weight=800&size=25&pause=1000&color=37FF71FF&background=FFFFFF00&width=800&height=100&lines=Self+learning+fullstack+through+research+and+development.)](https://git.io/typing-svg) 
- -->
+![Github_Banner](https://github.com/Sarthak412/Sarthak412/assets/43435014/14bc319b-489d-4e17-ab3e-4fb7204570f7)
 
-<h1> ⭐ More About me ⭐ </h1> 
+<h1> ⭐ About me ⭐ </h1> 
 
 - Self-learning Full-stack Developer through research and Developement.
 - Currently experimenting with React and Tailwind CSS for Front-end.
