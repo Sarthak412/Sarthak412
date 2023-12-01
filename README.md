@@ -1,4 +1,3 @@
-![Github_Banner](https://github.com/Sarthak412/Sarthak412/assets/43435014/d0838ac9-c6c3-4165-b70d-14745fd354e6)
 <h1> ⭐ About me ⭐ </h1> 
 
 - Self-learning Full-stack Developer through research and Developement.
