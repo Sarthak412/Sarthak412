@@ -5,7 +5,7 @@
 
 <!-- <img width="1500" height="600" alt="github_banner_v4" src="https://github.com/user-attachments/assets/5f100918-f885-4656-88a4-00ffec63a5ca" />  -->
 
-<img width="1983" height="793" alt="ChatGPT Image Aug 30, 2026, 02_39_04 PM" src="https://github.com/user-attachments/assets/ae3023f5-f3bf-4673-92f6-02760ffa6033" />
+<img width="1983" height="793" alt="ChatGPT Image Aug 30, 2026, 02_55_51 PM" src="https://github.com/user-attachments/assets/d0342748-bd84-4d40-aba9-179e251f18d3" />
 
 <h1> 🚀 About me </h1> 
 
